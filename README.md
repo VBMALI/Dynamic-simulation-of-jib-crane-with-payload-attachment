@@ -6,3 +6,8 @@
 - For creating the models, the buses and variant sub-systems of Simulink are used. The information about these is also provided in the project report.
 - The simulation is verified for first scenario of inputs. The verification is justified by providing the numerical values of maximum errors involved between two models.
 - At last, there are certain recommendations included for the future improvement in the model to make it more realistic.
+
+Technologies Used:
+  - 
+  - Language: MATLAB
+  - Simulation Platform: SIMULINK
